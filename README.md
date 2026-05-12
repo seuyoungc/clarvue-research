@@ -1,6 +1,6 @@
 # CLARVUE — Exploratory Forum Analysis
 
-Reddit-based digital trace analysis supporting the design of [CLARVUE](https://seuyoungc.github.io/clarvue-mvp/), a cycle-aware planning tool focused on the luteal phase. This repository contains the data pipeline, coded dataset, and notebook used to surface pain points, coping strategies, and unmet needs that informed the product's design.
+Reddit-based digital trace analysis supporting the design of [CLARVUE](https://seuyoungc.craft.me/clarvue), a cycle-aware planning tool focused on the luteal phase. This repository contains the data pipeline, coded dataset, and notebook used to surface pain points, coping strategies, and unmet needs that informed the product's design.
 
 ## What this is
 
@@ -36,8 +36,7 @@ This analysis treats public Reddit posts as digital trace data for exploratory h
 ├── scripts/
 │   └── scrape_reddit.py            ← scraping pipeline (no credentials needed)
 └── outputs/
-    ├── design_implications.md      ← findings writeup
-    └── test_protocol.md            ← user-testing rubrics derived from findings
+    └── design_implications.md      ← findings writeup
 ```
 
 ## How to run it
@@ -53,9 +52,9 @@ The Reddit JSON endpoint used by `scripts/scrape_reddit.py` requires no API key 
 
 ## Findings
 
-See [outputs/design_implications.md](outputs/design_implications.md) for the full writeup, and [outputs/test_protocol.md](outputs/test_protocol.md) for the user-testing rubrics derived from each finding.
+See [outputs/design_implications.md](outputs/design_implications.md) for the full writeup.
 
 ## Link back to CLARVUE
 
-- Live MVP: [https://seuyoungc.github.io/clarvue-mvp/](https://seuyoungc.github.io/clarvue-mvp/)
 - Case study: [https://seuyoungc.craft.me/clarvue](https://seuyoungc.craft.me/clarvue)
+- Live MVP: [https://seuyoungc.github.io/clarvue-mvp/](https://seuyoungc.github.io/clarvue-mvp/)
