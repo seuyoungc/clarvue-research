@@ -2,13 +2,17 @@
 
 Seven patterns from a thematic analysis of ~500 anonymized Reddit posts (r/PMDD, r/pms, r/Periods, April 2026). Not a clinical claim — a synthesis of how people describe planning, deciding, and coping during the luteal phase. [Method →](../notebooks/analysis.ipynb)
 
-## 1. The briefing must answer "what do I do" — not "what phase am I in"
+Three of the seven were selected to test in the MVP (marked ★) based on their directness as product surfaces. The remaining four are validated signals held for future iterations.
+
+---
+
+## ★ 1. The briefing must answer "what do I do" — not "what phase am I in" *(tested in MVP)*
 
 Every competing app stops at the label. Users in this dataset describe opening Flo and seeing "Day 24. Luteal phase," and reading that as the app stating the obvious instead of helping. They want the action already taken — the meal already decided, the schedule already adjusted — and phase information as secondary context, not the headline.
 
 > **Implication.** The briefing surface must lead with a decided, executable action. Phase information is metadata, not the lede.
 
-## 2. Cognition is the design target, not mood
+## ★ 2. Cognition is the design target, not mood *(tested in MVP)*
 
 Across the dataset, brain fog and executive dysfunction are described as *worse* than emotional symptoms — because they can't be hidden. Users say they can mask anxiety or low mood; they can't fake clear thinking. The cognitive symptoms are what break work, parenting, and relationships.
 
@@ -22,7 +26,7 @@ The highest-scoring post in the app-signal dataset (842 upvotes) was about a use
 
 > **Implication.** Partner-facing status communication is a validated unmet need. The form factor (app, physical object, ambient) is open; the demand is clear.
 
-## 4. Food is the first system that breaks
+## ★ 4. Food is the first system that breaks *(tested in MVP)*
 
 Meals collapse first during luteal. Users describe cravings spiraling, ordering $50 of takeout, skipping food entirely for days, or eating frozen food because they can't plan. The meal-decision intervention point is the highest-friction, lowest-effort fix: the meal doesn't need to be elaborate, it needs to be *decided* without the user having to think.
 
