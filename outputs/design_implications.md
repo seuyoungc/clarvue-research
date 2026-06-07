@@ -1,6 +1,6 @@
 # Design Implications
 
-Seven patterns from a thematic analysis of ~500 anonymized Reddit posts (r/PMDD, r/pms, r/Periods, April 2026). Not a clinical claim — a synthesis of how people describe planning, deciding, and coping during the luteal phase. [Method →](../notebooks/analysis.ipynb)
+Seven patterns from a thematic analysis of ~500 anonymized Reddit posts (r/PMDD, r/pms, r/Periods, April 2026). This is a synthesis of how people describe planning, deciding, and coping during the luteal phase.
 
 Three of the seven were selected to test in the MVP (marked ★) based on their directness as product surfaces. The remaining four are validated signals held for future iterations.
 
